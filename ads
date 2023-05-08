@@ -1,0 +1,4 @@
+{
+  "admob": true,
+  "facebook": false
+}
