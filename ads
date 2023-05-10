@@ -1,5 +1,5 @@
 {
-  "admob": true,
+  "admob": false,
   "facebook": true
 
 }
