@@ -10,7 +10,7 @@
   "admobads":{
     "status":true,
     "openads":"",
-    "banner":"",
+    "banner":"ca-app-pub-3940256099942544/6300978111",
     "interstrital":"",
     "videoada":""
   },
