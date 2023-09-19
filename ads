@@ -3,8 +3,8 @@
   "facebookads":{
     "status":true,
     "openads":"",
-    "banner":"",
-    "interstrital":"",
+    "banner":"IMG_16_9_APP_INSTALL#1065845300711109_1065848810710758",
+    "interstrital":"IMG_16_9_APP_INSTALL#1065845300711109_1065850260710613",
     "videoada":""
   },
   "admobads":{
