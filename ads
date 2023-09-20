@@ -7,7 +7,8 @@
     "status":false
   },
   "localopen":{
-   "status":false 
+   "status":false,
+"localopenad":"https://channelmyanmar.org/wp-content/uploads/2023/06/388banner-2.gif"
   },
 
   "facebookads":{
@@ -29,9 +30,6 @@
   
   "localads":{
     "status":true,
-    "openads":"",
-    "banner":"https://channelmyanmar.org/wp-content/uploads/2023/06/388banner-2.gif",
-    "interstrital":"",
-    "native":""
+    "banner":"https://channelmyanmar.org/wp-content/uploads/2023/06/388banner-2.gif"
   }
 }
