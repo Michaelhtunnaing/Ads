@@ -1,5 +1,15 @@
 {
 
+  "facebookopen":{
+    "status":true
+  },
+  "admobopen":{
+    "status":false
+  },
+  "localopen":{
+   "status":false 
+  },
+
   "facebookads":{
     "status":false,
     "banner":"IMG_16_9_APP_INSTALL#1065845300711109_1065848810710758",
