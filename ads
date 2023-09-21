@@ -21,9 +21,9 @@
   },
   "admobads":{
     "status":true,
-    "openads":"",
+    "openads":"ca-app-pub-3940256099942544/3419835294",
     "banner":"ca-app-pub-3940256099942544/6300978111",
-    "interstrital":"",
+    "interstrital":"ca-app-pub-3940256099942544/1033173712",
     "native":"",
     "videoads":""
   },
