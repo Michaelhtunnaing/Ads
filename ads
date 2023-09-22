@@ -4,7 +4,7 @@
     "status":true
   },
   "admobopen":{
-    "status":false
+    "status":true
   },
   "localopen":{
    "status":false,
