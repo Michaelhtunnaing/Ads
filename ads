@@ -1,7 +1,7 @@
 {
 
   "facebookopen":{
-    "status":fasle
+    "status":false
   },
   "admobopen":{
     "status":false
