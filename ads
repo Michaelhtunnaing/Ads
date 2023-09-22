@@ -1,13 +1,13 @@
 {
 
   "facebookopen":{
-    "status":true
+    "status":fasle
   },
   "admobopen":{
-    "status":true
+    "status":false
   },
   "localopen":{
-   "status":false,
+   "status":true,
 "localopenad":"https://channelmyanmar.org/wp-content/uploads/2023/06/388banner-2.gif",
 "link":""
   },
