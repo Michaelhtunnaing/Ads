@@ -1,10 +1,10 @@
 {
 
   "facebookopen":{
-    "status":false
+    "status":true
   },
   "admobopen":{
-    "status":false
+    "status":true
   },
   "localopen":{
    "status":true,
@@ -13,7 +13,7 @@
   },
 
   "facebookads":{
-    "status":false,
+    "status":true,
     "banner":"IMG_16_9_APP_INSTALL#1065845300711109_1065848810710758",
     "interstrital":"IMG_16_9_APP_INSTALL#1065845300711109_1065850260710613",
     "native":"IMG_16_9_APP_INSTALL#1065845300711109_1334382497190720",
