@@ -14,7 +14,7 @@
     "videoads":""
   },
   "admobads":{
-    "status":true,
+    "status":false,
     "openads":"ca-app-pub-3940256099942544/3419835294",
     "banner":"ca-app-pub-3940256099942544/6300978111",
     "interstrital":"ca-app-pub-3940256099942544/1033173712",
