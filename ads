@@ -1,10 +1,10 @@
 {
   "facebookads": {
     "status": true,
-    "appOpen": "123456789",
-    "banner": "IMG_16_9_APP_INSTALL#1065845300711109_1065848810710758",
-    "interstrital": "IMG_16_9_APP_INSTALL#1065845300711109_1065850260710613",
-    "native": "IMG_16_9_APP_INSTALL#1065845300711109_1334382497190720",
+    "appOpen": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interstrital": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "videoads": ""
   },
   "admobads": {
