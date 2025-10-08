@@ -1,24 +1,18 @@
 {
-
-  "facebookopen":{
-    "status":true
+  "facebookads": {
+    "status": true,
+    "appOpen": "123456789",
+    "banner": "IMG_16_9_APP_INSTALL#1065845300711109_1065848810710758",
+    "interstrital": "IMG_16_9_APP_INSTALL#1065845300711109_1065850260710613",
+    "native": "IMG_16_9_APP_INSTALL#1065845300711109_1334382497190720",
+    "videoads": ""
   },
-  "admobopen":{
-    "status":true
-  },
-  "facebookads":{
-    "status":true,
-    "banner":"IMG_16_9_APP_INSTALL#549167759165615_549192715829786",
-    "interstrital":"IMG_16_9_APP_INSTALL#1065845300711109_1065850260710613",
-    "native":"IMG_16_9_APP_INSTALL#1065845300711109_1334382497190720",
-    "videoads":""
-  },
-  "admobads":{
-    "status":false,
-    "openads":"ca-app-pub-3940256099942544/3419835294",
-    "banner":"ca-app-pub-3940256099942544/6300978111",
-    "interstrital":"ca-app-pub-3940256099942544/1033173712",
-    "native":"",
-    "videoads":""
+  "admobads": {
+    "status": false,
+    "openads": "ca-app-pub-3940256099942544/3419835294",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstrital": "ca-app-pub-3940256099942544/1033173712",
+    "native": "",
+    "videoads": ""
   }
 }
